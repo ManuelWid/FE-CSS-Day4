@@ -1,0 +1,38 @@
+.box{
+  position: relative;
+}
+
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+}
+
+#eyes1{
+  position:absolute;
+  left: 180px;
+  top: 250px;
+}
+
+#mouth1{
+  position: absolute;
+  left: 130px;
+  top: 300px;
+  width: 150px;
+}
+
+#ears1{
+  position: absolute;
+  left: 15px;
+  top: 80px;
+  width: 350px;
+}
+
+#hat{
+  position: absolute;
+  left: 280px;
+  top: 95px;
+  width: 50px;
+  transform: rotate(45deg);
+}
