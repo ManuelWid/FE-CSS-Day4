@@ -1,0 +1,21 @@
+.background{
+    color: #464939;
+}
+.h3{
+    font-size: 12pt;
+}
+#explanation{
+    color: brown;
+    font-style: bold
+}
+.ul {
+    color: #525d21;
+    font-style:italic
+}
+.strong{
+    color: #dd8804
+}
+.content{
+    font-style:italic; color:blue;
+    background-color: white;
+}
